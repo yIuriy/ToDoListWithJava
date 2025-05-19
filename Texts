@@ -1,0 +1,2 @@
+INSERT INTO `to_do_list`.`task` (`title`, `description`, `deadline`, `priority`, `status`) VALUES ('Make bread', 'Make warn
+bread', '2025-05-25', '10', b'0');
